@@ -1,3 +1,3 @@
 # random-date
 
-An utility for generating random dates.
+A Java utility class for generating random dates.
